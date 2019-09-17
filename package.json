@@ -1,0 +1,28 @@
+{
+  "name": "combatrocks_client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnriqueSalazar/combatrocks_client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnriqueSalazar/combatrocks_client/issues"
+  },
+  "homepage": "https://github.com/EnriqueSalazar/combatrocks_client#readme",
+  "dependencies": {
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-websocket": "^2.0.2"
+  }
+}
